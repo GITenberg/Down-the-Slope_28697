@@ -1,0 +1,35 @@
+_repo: Down-the-Slope_28697
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 28697-h/images/cover.jpg
+creator:
+  author:
+    agent_name: Otis, James
+    alias: Kaler, James Otis
+    birthdate: 1848
+    deathdate: 1912
+    gutenberg_agent_id: '1433'
+    url: http://www.gutenberg.org/2009/agents/1433
+description: ''
+gutenberg_issued: '2009-05-05'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '28697'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Wealth -- Juvenile fiction'
+- !lcsh 'Land titles -- Juvenile fiction'
+- !lcsh 'Rescues -- Juvenile fiction'
+- !lcsh 'Mine accidents -- Juvenile fiction'
+- !lcsh 'Youth -- Conduct of life -- Juvenile fiction'
+- !lcsh 'Coal mines and mining -- Juvenile fiction'
+- !lcsh 'Friendship -- Juvenile fiction'
+- !lcsh 'Detectives -- Juvenile fiction'
+- !lcsh 'Conduct of life -- Juvenile fiction'
+- !lcc 'PZ'
+title: Down the Slope
+url: http://www.gutenberg.org/ebooks/28697
